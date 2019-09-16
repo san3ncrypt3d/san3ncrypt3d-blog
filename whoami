@@ -45,15 +45,14 @@ button:hover, a:hover {
 <h2 style="text-align:center">WHOAMI</h2>
 
 <div class="card">
-  <img src="" alt="John" style="width:100%">
+  <img src="/blob/master/san.png" alt="John" style="width:100%">
   <h1>Sanjay Babu</h1>
   <p class="title">Cyber security consultant</p>
   
   <div style="margin: 24px 0;">
-    <a href="#"><i class="fa fa-dribbble"></i></a> 
-    <a href="#"><i class="fa fa-twitter"></i></a>  
-    <a href="#"><i class="fa fa-linkedin"></i></a>  
-    <a href="#"><i class="fa fa-facebook"></i></a> 
+    <a href="https://twitter.com/san3ncrypt3d" class="fa fa-twitter w3-hover-opacity"></a>
+  <a href="https://www.instagram.com/san3ncrypt3d/" class="fa fa-instagram w3-hover-opacity"></a>
+  <a href="https://www.linkedin.com/in/sanjay-babu-346500160/" class="fa fa-linkedin w3-hover-opacity"></a> 
   </div>
   <p><button>Contact</button></p>
 </div>
